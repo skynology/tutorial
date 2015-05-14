@@ -1,0 +1,29 @@
+{
+     "button":[
+     {	
+          "type":"click",
+          "name":"联系我们",
+          "key":"contactus"
+      },
+      {
+           "name":"菜单",
+           "sub_button":[
+             {	
+                 "type":"view",
+                 "name":"上空云",
+                 "url":"http://www.skynology.com/"
+              },
+              {
+                  "type": "pic_sysphoto", 
+                  "name": "系统拍照发图", 
+                  "key": "rselfmenu_1_0", 
+                  "sub_button": [ ]
+              }, 
+              {
+                 "type":"click",
+                 "name":"赞一下我们",
+                 "key":"zan"
+              }
+            ]
+       }]
+ }
