@@ -1,9 +1,12 @@
 ## 微信平台开发相关
 
+请加QQ群: 434581608
 
 ### 视频教程
 * http://pan.baidu.com/s/1eQ6dCZK
 
+### 博客系列
+* http://my.oschina.net/williambao/blog?catalog=3298188
 
 ## 参考文档
 
